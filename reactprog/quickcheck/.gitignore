@@ -1,0 +1,14 @@
+*.class
+*.jar
+.properties*
+*.iml
+.idea/
+.settings/
+.idea_modules/
+lib_managed/
+submission/
+.project
+.classpath
+target/
+project/target/
+project/project/target/
