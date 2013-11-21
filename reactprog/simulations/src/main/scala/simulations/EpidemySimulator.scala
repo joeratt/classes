@@ -31,5 +31,7 @@ class EpidemySimulator extends Simulator {
     //
     // to complete with simulation logic
     //
+
+
   }
 }
